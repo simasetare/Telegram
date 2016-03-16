@@ -84,7 +84,7 @@
     <string name="ActionMigrateFromGroup">This group was upgraded to a supergroup</string>
     <string name="ActionMigrateFromGroupNotify">%1$s was upgraded to a supergroup</string>
     <string name="NoBlockedGroup">Blocked users are removed from the group and can only come back if invited by an admin. Invite links don\'t work for them.</string>
-    <string name="NewChannel">New Channel</string>
+    <string name="NewChannel">گونال جتیت</string>
     <string name="EnterChannelName">Channel name</string>
     <string name="Comments">Comments</string>
     <string name="CommentsInfo">If you enable comments, people will be able to discuss your posts in the channel.</string>
